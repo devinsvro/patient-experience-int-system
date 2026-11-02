@@ -1,0 +1,6 @@
+{
+  "name": "Hospital Patient Experience Intelligence System",
+  "description": "Collaborative 6-agent healthcare intelligence platform orchestrating patient feedback insights, experience monitoring, complaint triage, and executive decision support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
